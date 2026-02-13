@@ -1,3 +1,4 @@
 - Codeberg: [codeberg.org/hannesoberreiter](https://codeberg.org/hannesoberreiter)
-- Curriculum Vitae: [btree.at/cv/](https://www.btree.at/cv/)
+- Curriculum Vitae: [oberreiter.or.at/hannes](https://www.oberreiter.or.at/hannes)
+- b.tree Beekeeping Software [btree.at](https://www.btree.at)
 - iNaturalist: [www.inaturalist.org/observations/btree](https://www.inaturalist.org/observations/btree)
